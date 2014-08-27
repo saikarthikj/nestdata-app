@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nestdata-app
 
 This README outlines the details of collaborating on this Ember application.
@@ -23,3 +24,9 @@ This README outlines the details of collaborating on this Ember application.
 * `ember build`
 
 For more information on using ember-cli, visit [http://iamstef.net/ember-cli/](http://iamstef.net/ember-cli/).
+=======
+nestdata-app
+============
+
+getting data from json and displaying it
+>>>>>>> 58919c500eedb7d9c58dd91ac66facf006346644
