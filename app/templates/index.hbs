@@ -1,0 +1,8 @@
+{{#each product in controller}}
+<div style="border-style:solid;border-weight:thin;width:200px;text-align:center;float:left;min-height:190px;padding-left:2px;">
+<p><img {{bind-attr src=product.master.images.firstObject.imagepath}}><br/>
+Name: {{product.master.name}}<br/>
+   Price: {{product.master.price}}$
+</p>
+</div>
+{{/each}}
